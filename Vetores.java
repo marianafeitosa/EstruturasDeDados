@@ -17,6 +17,6 @@ public class Main
 		System.out.println("Posição 2:" + nomes[2]);// vai mostrar que a Giovana esta na posição 2 do vetor
 		System.out.println("Posição 3:" + nomes[3]);// vai mostrar que o Andrei esta na posição 3 do vetor
 			System.out.println("");//aspas p dar espaço
-		System.out.println("Tamanho do vetor:"+ nomes.length); // length é usado para saber o tamanho do vetor
+		System.out.println("Tamanho do vetor:"+ nomes.length); // length é usado para saber o tamanho do vetor, nesse caso 4
 	}
 }
